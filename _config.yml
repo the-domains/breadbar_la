@@ -1,7 +1,7 @@
 name: BREADBAR_LA
 favicon: null
-layout_spectrum: 0.3281821261625737
-typography_spectrum: 0.10998196504078805
+layout_spectrum: 1
+typography_spectrum: 0.58524
 cta:
   domain: null
   bucket: null
